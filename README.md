@@ -3,7 +3,7 @@
 IMT School - ARM-Based Microcontroller Programming Diploma: \
 ▪ Using STM32F103C8T6 Microcontroller (Based on ARM Cortex-M3). \
 ▪ ARM Architecture Basics. \
-▪ ARM Interrupts. 
+▪ ARM Interrupts. \
 ▪ Real Time. \
 ▪ Audio Processing. \
 ▪ Communications Protocols. \
