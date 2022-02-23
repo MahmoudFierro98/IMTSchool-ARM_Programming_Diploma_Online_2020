@@ -1,4 +1,4 @@
-<h1 align="center">IMT School-ARM Programming Diploma Online<br />Started From 25/7/2020 To 23/09/2020</h1>
+<h1 align="center">IMT School - ARM Programming Diploma Online<br />Started From 25/7/2020 To 23/09/2020</h1>
 
 IMT School - ARM-Based Microcontroller Programming Diploma: \
 ▪ Using STM32F103C8T6 Microcontroller (Based on ARM Cortex-M3). \
