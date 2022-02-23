@@ -12,7 +12,7 @@ IMT School - ARM-Based Microcontroller Programming Diploma: \
 ▪ Made Drivers for every peripheral in C Programming and Layered architecture. \
 ▪ Supervised by Eng. Ahmed Assaf. 
 
-## OTA (Final Project): 
+## OTA (Final Project) Discussed at 13/10/2020: 
 https://www.linkedin.com/in/mahmoudfierro98/details/experience/1892008108/multiple-media-viewer/?profileId=ACoAACwUhCEBfpThBiOiMjo45h-kf0mNGnCpyqw&treasuryMediaId=1635478592644 
 
 ## IoT Simple Project: 
